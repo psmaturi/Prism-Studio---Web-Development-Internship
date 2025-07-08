@@ -64,7 +64,7 @@ A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. 
 
 ## 👨‍💻 Author
 
-**MAturi Pardha Saradhi**  
+**Maturi Pardha Saradhi**  
 Frontend Intern  
 [LinkedIn Profile](www.linkedin.com/in/psmaturi)
 
