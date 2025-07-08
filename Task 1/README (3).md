@@ -4,8 +4,8 @@ A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. 
 
 ## 🔗 Live Demo
 
-👉 [View on GitHub Pages](https://yourusername.github.io/ShopEasy/)  
-*(Replace with your actual GitHub Pages URL)*
+👉 [View on GitHub Pages]([https://yourusername.github.io/ShopEasy](https://github.com/psmaturi/Prism-Studio---Web-Development-Internship/tree/main/Task%201)/)  
+
 
 ---
 
