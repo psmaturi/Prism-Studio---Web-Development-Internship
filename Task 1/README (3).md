@@ -3,10 +3,6 @@
 A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. This is part of a frontend internship task to understand web layout fundamentals and responsive design.
 
 ## 🔗 Live Demo
-
-👉 [View on GitHub Pages]([https://yourusername.github.io/ShopEasy](https://github.com/psmaturi/Prism-Studio---Web-Development-Internship/tree/main/Task%201)/)  
-
-
 ---
 
 ## 📸 Screenshots
