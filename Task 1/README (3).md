@@ -12,10 +12,17 @@ A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. 
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](screenshots/desktop.png)
+![image](https://github.com/user-attachments/assets/4c54a7d2-7de0-46f5-bafc-657ef116da30)
+![image](https://github.com/user-attachments/assets/e919657b-8cc6-4c67-be36-054568f9bc79)
+![image](https://github.com/user-attachments/assets/55912bd5-9df0-46eb-b2ab-47d7c258872f)
+
+
+
 
 ### 📱 Mobile View
-![Mobile Screenshot](screenshots/mobile.png)
+![image](https://github.com/user-attachments/assets/4bae7caf-7e9c-4344-87fa-466fd83bdf97)
+![image](https://github.com/user-attachments/assets/e46c5d3e-f5bc-48ba-b13a-730d83518e59)
+![image](https://github.com/user-attachments/assets/9ef72f7a-763d-40ad-a7fa-8b1976531c0d)
 
 ---
 
@@ -34,7 +41,7 @@ A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. 
 ```
 ├── index.html        # Main HTML file
 ├── style.css         # All custom styles
-└── screenshots/      # Folder to store screenshots
+└── Readme file/      # Folder to store about task
 ```
 
 ---
@@ -61,9 +68,9 @@ A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. 
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**MAturi Pardha Saradhi**  
 Frontend Intern  
-[LinkedIn Profile](https://linkedin.com/in/your-profile)
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
 
 ---
 
