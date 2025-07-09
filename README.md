@@ -8,7 +8,6 @@ This task is part of the **Prism Studio Web Development Internship**. The goal o
 
 - [ ] Design and structure a responsive web page.
 - [ ] Implement CSS for layout and styling.
-- [ ] Add interactivity using JavaScript (if applicable).
 - [ ] Ensure clean and accessible code.
 
 ---
@@ -17,7 +16,6 @@ This task is part of the **Prism Studio Web Development Internship**. The goal o
 
 - HTML5  
 - CSS3  
-- JavaScript (Optional)
 
 ---
 
@@ -27,21 +25,16 @@ This task is part of the **Prism Studio Web Development Internship**. The goal o
 Task 2/
 ├── index.html
 ├── styles.css
-├── script.js          # (if included)
 └── README.md
 ```
 
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/f7c3e112-b203-4657-976c-a872c62f5056)
+![image](https://github.com/user-attachments/assets/f26f9abe-e516-4a33-974d-c1accbc64f61)
 
-_Add a screenshot here if applicable:_
 
-```markdown
-![Preview](./screenshot.png)
-```
-
----
 
 ## ✅ Status
 
