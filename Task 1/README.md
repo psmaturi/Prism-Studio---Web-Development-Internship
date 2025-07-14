@@ -65,7 +65,7 @@ A clean, responsive, pixel-perfect E-commerce homepage built with HTML and CSS. 
 ## 👨‍💻 Author
 
 **Maturi Pardha Saradhi**  
-Frontend Intern  
+Web Development Intern @ Prism Studio  
 [LinkedIn Profile](www.linkedin.com/in/psmaturi)
 
 ---
