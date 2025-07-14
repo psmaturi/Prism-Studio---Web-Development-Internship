@@ -46,4 +46,4 @@ Task 2/
 
 **Maturi Pardha Saradhi**  
 Web Development Intern @ Prism Studio  
-GitHub: [@psmaturi](https://github.com/psmaturi)
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
