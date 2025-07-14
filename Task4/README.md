@@ -64,8 +64,8 @@ This form is production-ready and follows best practices for preventing garbage 
 
 ---
 
-## 🙌 Submitted by
+## Submitted by
 
 **Maturi Pardha Saradhi**  
-Web Development Intern  
-SRM University-AP
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
