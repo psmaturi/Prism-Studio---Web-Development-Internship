@@ -28,4 +28,10 @@ This project enhances a static landing page with interactive features using **HT
 
 ---
 
+## ✍️ Author
+
+**Maturi Pardha Saradhi**  
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
+
 Made for frontend practice and UI enhancement. Suitable for portfolios, mock stores, or learning exercises.
