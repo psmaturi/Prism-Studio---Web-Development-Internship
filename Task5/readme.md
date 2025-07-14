@@ -5,9 +5,9 @@ This project enhances the previously built **ShopEasy landing page** with smooth
 ---
 
 ## 📸 Screenshots
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="1907" height="821" alt="image" src="https://github.com/user-attachments/assets/5887e6b1-3044-4e3c-96b1-20b784c5dd01" />
+<img width="1904" height="908" alt="image" src="https://github.com/user-attachments/assets/6b685bd3-d415-4f20-9b5d-6d4186d72b7e" />
+<img width="1896" height="966" alt="image" src="https://github.com/user-attachments/assets/e5041252-6996-4be3-9b84-d29f4408f9eb" />
 ---
 
 ## ✅ Features Implemented
