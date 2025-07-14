@@ -44,10 +44,11 @@ This project enhances the previously built **ShopEasy landing page** with smooth
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Submitted by
 
 **Maturi Pardha Saradhi**  
-Web Development Intern | Prism Studio
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
 
 ---
 
