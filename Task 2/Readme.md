@@ -42,7 +42,7 @@ Task 2/
 
 ---
 
-## ✍️ Author
+## ## Submitted by
 
 **Maturi Pardha Saradhi**  
 Web Development Intern @ Prism Studio  
