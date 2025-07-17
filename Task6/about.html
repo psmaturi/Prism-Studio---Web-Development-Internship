@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About Us - ShopEasy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">ShopEasy</div>
+    <div class="nav-controls">
+      <button class="hamburger" id="hamburger">&#9776;</button>
+      <button id="themeToggle" title="Toggle Theme">🌓</button>
+      <nav>
+        <ul class="navbar" id="navbar">
+          <li><a href="index.html" class="nav-link">Home</a></li>
+          <li><a href="about.html" class="nav-link">About</a></li>
+          <li><a href="contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+   <main style="padding: 2rem; max-width: 1000px; margin: auto; text-align: center;">
+
+  <h1>About ShopEasy</h1>
+
+  <p style="margin: 1.5rem 0;">
+    <strong>ShopEasy</strong> is more than just an online store — it's a digital marketplace designed for simplicity, trust, and satisfaction.
+    Whether you're shopping for trendy apparel, the latest electronics, or everyday household essentials, our goal is to make every experience seamless and joyful.
+  </p>
+
+  <h2 style="margin-top: 2rem;">Our Story</h2>
+  <p style="margin: 1rem 0;">
+    Founded in early 2025 by a group of passionate innovators, ShopEasy started as a mission to simplify online shopping
+    for the modern Indian consumer. We noticed the growing demand for a platform that balances affordability, quality, and speed —
+    and ShopEasy was born.
+  </p>
+  <p style="margin: 1rem 0;">
+    From a small team with a big dream, we’ve grown into a thriving community of shoppers, sellers, and support teams who believe
+    in making shopping effortless. We now serve thousands of happy customers each day — and we’re just getting started.
+  </p>
+
+  <h2 style="margin-top: 2rem;">Our Core Values</h2>
+  <ul style="text-align: left; max-width: 750px; margin: auto; margin-top: 1rem; padding-left: 1.5rem;">
+    <li style="margin: 0.8rem 0;">✅ <strong>Customer Obsession:</strong> We listen, learn, and adapt to your needs first.</li>
+    <li style="margin: 0.8rem 0;">✅ <strong>Quality Products:</strong> Every item is handpicked and quality-verified.</li>
+    <li style="margin: 0.8rem 0;">✅ <strong>Affordability:</strong> We keep prices low and value high.</li>
+    <li style="margin: 0.8rem 0;">✅ <strong>Speed & Efficiency:</strong> We deliver fast, and keep you informed every step of the way.</li>
+    <li style="margin: 0.8rem 0;">✅ <strong>Innovation:</strong> We are constantly evolving to enhance your experience.</li>
+  </ul>
+
+  <h2 style="margin-top: 2rem;">Our Team</h2>
+  <p style="margin: 1rem 0;">
+    Behind the screen is a dedicated team of developers, designers, customer support executives, logistics coordinators,
+    and digital marketers — all working in sync to give you the best shopping journey possible. We're passionate about
+    creating technology that empowers people.
+  </p>
+
+  <h2 style="margin-top: 2rem;">Social Impact</h2>
+  <p style="margin: 1rem 0;">
+    ShopEasy actively partners with local sellers, rural entrepreneurs, and small businesses to promote inclusivity and economic growth.
+    With every purchase, you’re supporting real people and real dreams.
+  </p>
+
+  <h2 style="margin-top: 2rem;">Looking Ahead</h2>
+  <p style="margin: 1rem 0;">
+    Our vision is to become India's most trusted e-commerce brand, one click at a time.
+    We're working on expanding our logistics, introducing eco-friendly packaging, and launching a ShopEasy app soon!
+  </p>
+
+  <p style="margin-top: 2rem;">
+    Thank you for choosing us. We’re here because of you.  
+    <br><strong>Shop smart. ShopEasy.</strong>
+  </p>
+</main>
+
+  <!-- About Section -->
+  <section class="fade-in">
+    <div class="container">
+      <h2>About ShopEasy</h2>
+      <p>ShopEasy was founded with a vision to simplify online shopping. We bring you the latest trends in fashion, electronics, and lifestyle, all at unbeatable prices.</p>
+      <p>Our mission is to provide a seamless shopping experience with fast delivery, quality products, and excellent customer support.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 ShopEasy. All rights reserved.</p>
+    <ul>
+      <li><a href="#">Privacy</a></li>
+      <li><a href="#">Terms</a></li>
+      <li><a href="#">Support</a></li>
+    </ul>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    const page = location.pathname.split("/").pop();
+    document.querySelectorAll(".nav-link").forEach(link => {
+      if (link.getAttribute("href") === page) {
+        link.classList.add("active");
+      }
+    });
+  </script>
+</body>
+</html>

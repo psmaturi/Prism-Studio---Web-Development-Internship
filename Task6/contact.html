@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact Us - ShopEasy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">ShopEasy</div>
+    <div class="nav-controls">
+      <button class="hamburger" id="hamburger">&#9776;</button>
+      <button id="themeToggle" title="Toggle Theme">🌓</button>
+      <nav>
+        <ul class="navbar" id="navbar">
+          <li><a href="index.html" class="nav-link">Home</a></li>
+          <li><a href="about.html" class="nav-link">About</a></li>
+          <li><a href="contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+    <main style="padding: 2rem; max-width: 900px; margin: auto; text-align: center;">
+  <h1>Contact Us</h1>
+  <p style="margin: 1rem 0;">
+    Have questions, feedback, or need assistance? Our team is here to help you every step of the way.
+  </p>
+  
+  <section style="margin-top: 2rem;">
+    <h2>📩 Email Us</h2>
+    <p>support@shopeasy.com</p>
+  </section>
+
+  <section style="margin-top: 2rem;">
+    <h2>📞 Call Us</h2>
+    <p>+91-98765-43210<br>Available Monday to Saturday, 9:00 AM – 6:00 PM IST</p>
+  </section>
+
+  <section style="margin-top: 2rem;">
+    <h2>📍 Visit Our Office</h2>
+    <p>
+      ShopEasy Pvt. Ltd.<br>
+      4th Floor, TechHub Tower,<br>
+      Hi-Tech City, Hyderabad, India – 500081
+    </p>
+  </section>
+
+  <section style="margin-top: 2rem;">
+    <h2>💬 Follow Us</h2>
+    <p>
+      Instagram | Twitter | Facebook | LinkedIn  
+    </p>
+  </section>
+
+  <p style="margin-top: 2rem;">
+    We typically respond within 24 hours. Thank you for choosing ShopEasy!
+  </p>
+</main>
+
+  <!-- Contact Section -->
+  <section class="fade-in">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>If you have any questions, feel free to reach out.</p>
+      <p><strong>Email:</strong> support@shopeasy.com</p>
+      <p><strong>Phone:</strong> +91-9876543210</p>
+      <p><strong>Address:</strong> 123, Main Street, Hyderabad, India</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 ShopEasy. All rights reserved.</p>
+    <ul>
+      <li><a href="#">Privacy</a></li>
+      <li><a href="#">Terms</a></li>
+      <li><a href="#">Support</a></li>
+    </ul>
+  </footer>
+
+  <script src="script.js"></script>
+  <script>
+    const page = location.pathname.split("/").pop();
+    document.querySelectorAll(".nav-link").forEach(link => {
+      if (link.getAttribute("href") === page) {
+        link.classList.add("active");
+      }
+    });
+  </script>
+</body>
+</html>
