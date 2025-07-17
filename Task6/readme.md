@@ -5,10 +5,11 @@ This project is an enhanced version of the **ShopEasy** landing page and include
 ---
 
 ## 📸 Screenshots
+<img width="1890" height="985" alt="image" src="https://github.com/user-attachments/assets/0ebff7fa-4971-47aa-a8c7-734cc8bb3cf6" />
+<img width="1913" height="983" alt="image" src="https://github.com/user-attachments/assets/5dc51b76-f02d-4a01-9b48-5e6482dcf69b" />
+<img width="1887" height="981" alt="image" src="https://github.com/user-attachments/assets/a96e028b-193e-4242-9545-e09ea9ce8176" />
 
 
-
-> 📁 Place all screenshots in a `/screenshots/` folder inside the repo.
 
 ---
 
