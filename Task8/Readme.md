@@ -73,7 +73,14 @@ Users can:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Submitted by
 
-**Pardha Saradhi**  
-Web Development Intern – Task 8
+**Maturi Pardha Saradhi**  
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
+
+---
+
+## 📧 Contact
+
+📩 psmaturi@gmail.com
