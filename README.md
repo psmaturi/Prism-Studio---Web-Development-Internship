@@ -50,16 +50,14 @@ I am currently completing structured tasks and a hands-on project as assigned du
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Submitted by
 
-If you'd like to learn more or connect:
-
-- ✉️ Email: psmaturi@gmail.com 
-- 🔗 GitHub: [psmaturi](https://github.com/psmaturi)  
-- 🌐 LinkedIn: *www.linkedin.com/in/psmaturi*
+**Maturi Pardha Saradhi**  
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
 
 ---
 
-> *“Every line of code written during this internship is a step toward mastering real-world development.”*  
-> — Maturi Pardha Saradhi
+## 📧 Contact
 
+📩 psmaturi@gmail.com
