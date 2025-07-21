@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ShopEasy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">ShopEasy</div>
+    <button onclick="toggleCart()" class="cart-button">🛒 Cart (<span id="cart-count">0</span>)</button>
+  </header>
+
+  <main id="product-list" class="product-grid"></main>
+
+  <aside id="cart-sidebar" class="cart-sidebar">
+    <div class="cart-header">
+      <h2>Your Cart</h2>
+      <button onclick="toggleCart()" class="close-cart">✖</button>
+    </div>
+    
+    <div id="cart-items"></div>
+    <div class="cart-summary">
+      <p>Total: ₹<span id="cart-total">0</span></p>
+    </div>
+    <div class="cart-summary">
+  <p>Total: ₹<span id="cart-total">0</span></p>
+  <a href="checkout.html">
+    <button class="checkout-btn" onclick="saveCartToStorage()">Checkout</button>
+  </a>
+</div>
+
+  </aside>
+
+  <script src="script.js"></script>
+</body>
+</html>

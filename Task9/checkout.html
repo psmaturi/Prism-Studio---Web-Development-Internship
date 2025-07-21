@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Checkout | ShopEasy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">ShopEasy Checkout</div>
+  </header>
+
+  <main class="checkout-container">
+    <h2>Your Cart Summary</h2>
+    <div id="checkout-items"></div>
+
+    <div class="checkout-summary">
+      <p>Subtotal: ₹<span id="subtotal">0.00</span></p>
+      <p id="shipping-info">Shipping: ₹<span id="shipping">0.00</span></p>
+      <p><strong>Total: ₹<span id="final-total">0.00</span></strong></p>
+      <button id="place-order">Place Order</button>
+    </div>
+
+    <div id="success-message" class="success-popup">🎉 Order placed successfully!</div>
+  </main>
+
+  <script src="checkout.js"></script>
+</body>
+</html>
