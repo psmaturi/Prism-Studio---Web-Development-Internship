@@ -67,7 +67,9 @@ Users can:
 
 ## 📸 Screenshots (Optional)
 
-_Add screenshots of product grid & cart UI here if needed._
+<img width="1895" height="999" alt="image" src="https://github.com/user-attachments/assets/9b749b9b-b88f-4652-a07a-0c655bb3d793" />
+<img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/15288448-e2d3-4a27-b2a9-7e5d3032c99c" />
+
 
 ---
 
