@@ -84,4 +84,15 @@ Built using **HTML, CSS, and JavaScript** — without any backend, ideal for sta
 <img width="1904" height="975" alt="image" src="https://github.com/user-attachments/assets/1ffa90e8-ab1e-4c59-a7e6-73a2ac5ba03f" />
 ---
 
+## 👨‍💻 Submitted by
+
+**Maturi Pardha Saradhi**  
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
+
+---
+
+## 📧 Contact
+
+📩 psmaturi@gmail.com
 
