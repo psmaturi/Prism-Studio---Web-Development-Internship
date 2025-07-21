@@ -51,13 +51,17 @@ Welcome to **ShopEasy** – a responsive, interactive product listing page built
 
 ---
 
-## ✍️ Author
+## 👨‍💻 Submitted by
 
 **Maturi Pardha Saradhi**  
-Intern at ShopEasy  
-📧 Email: pardhasaradhi_maturi@srmap.edu.in
+Web Development Intern @ Prism Studio  
+[LinkedIn Profile](www.linkedin.com/in/psmaturi)
 
 ---
+
+## 📧 Contact
+
+📩 psmaturi@gmail.com
 
 ## ✅ Internship Task - Status
 
