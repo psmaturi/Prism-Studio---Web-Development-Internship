@@ -79,14 +79,9 @@ Built using **HTML, CSS, and JavaScript** — without any backend, ideal for sta
 ---
 
 ## 📸 Preview
-
-*(Insert screenshots or screen recording here if available)*
-
+<img width="1907" height="981" alt="image" src="https://github.com/user-attachments/assets/31afc25f-6bda-4453-b6a4-51b6783f0c11" />
+<img width="1914" height="980" alt="image" src="https://github.com/user-attachments/assets/8f81d33c-1285-4cf2-911e-80bf48fe957e" />
+<img width="1904" height="975" alt="image" src="https://github.com/user-attachments/assets/1ffa90e8-ab1e-4c59-a7e6-73a2ac5ba03f" />
 ---
 
-## 📣 Feedback
 
-Feel free to share suggestions or improvements.  
-This project was built as part of a **frontend internship assignment** to showcase dynamic UI skills using pure web technologies.
-
----
