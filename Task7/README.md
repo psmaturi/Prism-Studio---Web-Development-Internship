@@ -46,9 +46,8 @@ Welcome to **ShopEasy** – a responsive, interactive product listing page built
 ---
 
 ## 📸 Screenshots
+<img width="1893" height="983" alt="image" src="https://github.com/user-attachments/assets/d3c69648-d125-4bde-a80a-c5537b92a8fd" />
 
-![Product Grid](https://via.placeholder.com/800x400?text=Product+Grid+View)
-> *Live view of ShopEasy product grid with category and search filter in action.*
 
 ---
 
