@@ -61,3 +61,6 @@ Web Development Intern @ Prism Studio
 ## 📧 Contact
 
 📩 psmaturi@gmail.com
+
+> *“Every line of code written during this internship is a step toward mastering real-world development.”*  
+> — Maturi Pardha Saradhi
