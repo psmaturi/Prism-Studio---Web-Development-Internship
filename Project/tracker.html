@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MarketWatch – Real-Time Stock & Crypto Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>📈 MarketWatch</h1>
+    <span>Real-Time Stock & Crypto Tracker</span>
+  </header>
+
+  <div class="search-box">
+    <input type="text" id="search" placeholder="Search crypto assets (e.g., bitcoin, ethereum)" />
+    <ul id="suggestions"></ul>
+  </div>
+
+  <main>
+    <h2>Your Watchlist</h2>
+    <div id="watchlist" class="watchlist"></div>
+  </main>
+
+  <!-- Modal Chart -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span id="close">&times;</span>
+      <h3 id="modalTitle">Chart</h3>
+      <canvas id="chartCanvas" height="100"></canvas>
+      <p class="note">Last 7 days price history • Click and drag to zoom</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MarketWatch – Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="logo.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: radial-gradient(circle at top left, #0f172a, #111827);
+      color: #e2e8f0;
+      padding: 40px 20px;
+    }
+
+    header {
+      text-align: center;
+      padding-top: 60px;
+    }
+
+    header img {
+      width: 80px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #10b981;
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+
+    p.subtitle {
+      font-size: 1.25rem;
+      color: #94a3b8;
+      margin-bottom: 40px;
+    }
+
+    .cta-button {
+      background: linear-gradient(to right, #10b981, #22c55e);
+      padding: 14px 32px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      color: white;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+    }
+
+    .cta-button:hover {
+      transform: scale(1.05);
+    }
+
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 60px;
+      gap: 24px;
+    }
+
+    .feature-card {
+      background-color: #1f2937;
+      border-radius: 16px;
+      padding: 30px;
+      width: 300px;
+      text-align: center;
+      transition: transform 0.3s ease;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+
+    .feature-card:hover {
+      transform: translateY(-6px);
+    }
+
+    .feature-icon {
+      font-size: 2.5rem;
+      margin-bottom: 15px;
+    }
+
+    .feature-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #38bdf8;
+      margin-bottom: 10px;
+    }
+
+    .feature-desc {
+      font-size: 1rem;
+      color: #cbd5e1;
+    }
+
+    footer {
+      margin-top: 80px;
+      text-align: center;
+      color: #64748b;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2.2rem;
+      }
+
+      .features {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="MarketWatch Logo" />
+    <h1>MarketWatch</h1>
+    <p class="subtitle">Track crypto prices, manage your portfolio, and get real-time alerts.</p>
+    <button class="cta-button" onclick="goToDashboard()">Enter Dashboard ➜</button>
+  </header>
+
+  <section class="features">
+    <div class="feature-card">
+      <div class="feature-icon">📊</div>
+      <div class="feature-title">Live Market Data</div>
+      <div class="feature-desc">Access real-time cryptocurrency prices, interactive charts, and historical data.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">💼</div>
+      <div class="feature-title">Portfolio Tracker</div>
+      <div class="feature-desc">Manage your crypto investments with detailed performance metrics.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🔔</div>
+      <div class="feature-title">Smart Alerts</div>
+      <div class="feature-desc">Set custom price alerts and never miss market movements again.</div>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 MarketWatch • Built by Pardha Saradhi
+  </footer>
+
+  <script>
+    function goToDashboard() {
+      window.location.href = "tracker.html";
+    }
+  </script>
+
+</body>
+</html>
